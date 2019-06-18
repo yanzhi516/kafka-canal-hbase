@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b5a8aae-65a2-4844-8762-02182ee79edd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_otter_canal_client_1_0_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_otter_canal_common_1_0_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_otter_canal_protocol_1_0_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_12_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_6_cdh5_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_6_0_cdh5_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_6_0_cdh5_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_6_0_cdh5_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_core_2_6_0_mr1_cdh5_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_2_0_cdh5_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_2_0_cdh5_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_2_0_cdh5_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_2_0_cdh5_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core4_4_0_1_incubating.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_2_0_incubating.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_5_cdh5_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_core_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26_cloudera_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26_cloudera_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_1_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-hbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-hbase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/adups/hbase/controller/HBaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/adups/hbase/controller/HBaseController.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="kafka-hbase" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application-dev.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HBaseService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/service/HBaseService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BbTOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/bean/datacube/BbTOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/bean/datacube/TOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/bean/gemini/TOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KafkaConsumerConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/consumer/KafkaConsumerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TOrderHandle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/consumer/impl/datacube/TOrderHandle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TOrderFlow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/bean/gemini/TOrderFlow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HBaseController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/controller/HBaseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TOrderConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/consumer/impl/gemini/TOrderConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>time</find>
+      <find>HandlerProducer</find>
+      <find>MDC</find>
+      <find>printEntry</find>
+      <find>init</find>
+      <find>init(</find>
+      <find>getConnection</find>
+      <find>handlerProducer</find>
+      <find>HBaseService</find>
+      <find>RandCodeEnum</find>
+      <find>setAutoFlushTo</find>
+      <find>gemini</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/util/MyTaskRun.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/util/ThreadPoolUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/ResourcesConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbase/config/HBaseConfigurationBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/util/ThreadPoolUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/KafkaProducerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/util/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/KafkaProducerDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/HandlerProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/canal/AbstractCanalClientNew.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/canal/CanalAcceptTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/HBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/util/HBaseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/util/RandCodeEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/util/RandCodeEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/HBaseConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/HBaseService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/HBaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/config/HBaseConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/HBasePageModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/model/HBasePageModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/util/Utf8_Filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/HBaseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbase/controller/HBaseCommandController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/controller/HBaseCommandController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/service/HBaseService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/dao/HBaseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/controller/HBaseController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/service/HBaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/config/BaseConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/kafka/consumer/impl/datacube/TOrderHandle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/KafkaProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/canal/Handler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/canal/CanalBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/canal/CanalAcceptHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/canal/AbstractCanalClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbase/config/HBaseConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-pro.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/canal/CanalClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/KafkaHBaseApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/KafkaProducerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/kafka/consumer/impl/gemini/TOrderConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbase/service/HBaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbase/dao/HBaseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/kafka/consumer/KafkaConsumerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/canal/CanalHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/KafkaProducerTask.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adups/hbase/controller/HBaseController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../apache-maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kafka-hbase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kafka-hbase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-72" />
+    <option name="y" value="426" />
+    <option name="width" value="1640" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+              <item name="hbase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+              <item name="hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+              <item name="hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="datacube" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="gemini" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="canal-kafka-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adups" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafka-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kafka-canal" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.adups.hbasegad.config" />
+      <recent name="com.adups.hbasegad.controller" />
+      <recent name="com.adups.hbasegad.dao" />
+      <recent name="com.adups.hbasegad.model" />
+      <recent name="com.adups.hbasegad" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/adups/hbasegad/service" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/adups/util" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/adups/hbasegad" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/adups/kafka/bean/gemini" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KafkaHBaseApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="SimpleCanalClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adups.canal.SimpleCanalClientTest" />
+      <module name="kafka-hbase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adups.canal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="KafkaHBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka-hbase" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.adups.KafkaHBaseApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kafka-hbase" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.KafkaHBaseApplication" />
+      <item itemvalue="Application.SimpleCanalClientTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleCanalClientTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b5a8aae-65a2-4844-8762-02182ee79edd" name="Default" comment="" />
+      <created>1515378013178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515378013178</updated>
+      <workItem from="1515378017103" duration="56085000" />
+      <workItem from="1515978694789" duration="3000000" />
+      <workItem from="1516066443346" duration="547000" />
+      <workItem from="1516068588065" duration="113300000" />
+      <workItem from="1517366595880" duration="26970000" />
+      <workItem from="1519261826993" duration="50973000" />
+      <workItem from="1519611506966" duration="41493000" />
+      <workItem from="1552621099704" duration="955000" />
+      <workItem from="1552622133659" duration="6572000" />
+      <workItem from="1553069284063" duration="66000" />
+      <workItem from="1553069360257" duration="17000" />
+      <workItem from="1553134476157" duration="1347000" />
+      <workItem from="1553136700408" duration="1712000" />
+      <workItem from="1553139162371" duration="2887000" />
+      <workItem from="1555551979484" duration="24000" />
+      <workItem from="1560848672297" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="305972000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-57" y="341" width="1312" height="644" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5031898" side_tool="true" visible="true" weight="0.45419103" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.1291866" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8335937" weight="0.5625" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4968102" visible="true" weight="0.45419103" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2583732" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.3008" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Properties" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.484375" weight="0.32802126" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.465625" weight="0.328125" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.4016973" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/KafkaProducerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbasegad/util/HBasePageModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbasegad/util/ConfigUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbasegad/HBasePageModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/util/HBaseUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/conf/common.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/util/Utf8_Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbasegad/HBaseDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/controller/HBaseCommandController.java" />
+    <entry file="jar://$PROJECT_DIR$/../apache-maven-repository/org/apache/hbase/hbase-client/1.2.0-cdh5.10.0/hbase-client-1.2.0-cdh5.10.0.jar!/org/apache/hadoop/hbase/client/Result.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/service/IHBaseService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/service/impl/HBaseServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/config/BaseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/Net.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/KafkaProducer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/canal/Handler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/util/PerformanceTest.java" />
+    <entry file="jar://$PROJECT_DIR$/../apache-maven-repository/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.jar!/org/springframework/util/concurrent/SettableListenableFuture.class" />
+    <entry file="jar://$PROJECT_DIR$/../apache-maven-repository/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1.jar!/org/apache/kafka/clients/producer/Producer.class" />
+    <entry file="jar://$PROJECT_DIR$/../apache-maven-repository/org/springframework/kafka/spring-kafka/1.1.7.RELEASE/spring-kafka-1.1.7.RELEASE.jar!/org/springframework/kafka/support/ProducerListener.class" />
+    <entry file="jar://$PROJECT_DIR$/../apache-maven-repository/org/springframework/kafka/spring-kafka/1.1.7.RELEASE/spring-kafka-1.1.7.RELEASE.jar!/org/springframework/kafka/core/KafkaTemplate.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/canal/CanalBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="179" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/canal/CanalHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/HandlerProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/KafkaProducerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/producer/KafkaProducerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="59" column="1" lean-forward="true" selection-start-line="21" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/config/BaseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/config/HBaseConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/util/RandCodeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/dao/HBaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="236" column="34" lean-forward="true" selection-start-line="236" selection-start-column="34" selection-end-line="236" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/model/HBasePageModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="18" selection-end-line="211" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/common/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/canal/CanalClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-pro.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adups/KafkaHBaseApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/KafkaHBaseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/consumer/KafkaConsumerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/consumer/impl/datacube/TOrderHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/consumer/impl/gemini/TOrderConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/service/HBaseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/service/HBaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/bean/datacube/BbTOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/bean/datacube/TOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/bean/gemini/TOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/kafka/bean/gemini/TOrderFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adups/hbase/controller/HBaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
